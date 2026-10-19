@@ -1,0 +1,19 @@
+VOICE-OVER SCRIPT – LIFE HACK OR URBAN MYTH?
+
+Hello, my name is Keabetswe Mahlaela, and this is my IMAD Assignment 2 application, called Life Hack or Urban Myth?
+
+The purpose of this application is to help users test their knowledge of common life hacks and internet rumours. Users answer each statement by choosing Hack, which means true, or Myth, which means false.
+
+When the app opens, the welcome screen explains how the game works and shows the Start Quiz button. I will select Start Quiz to begin.
+
+The question screen displays one statement at a time. The user chooses either Hack or Myth. After an answer is selected, the app provides feedback and an explanation. The Next Question button moves to the next statement. The app keeps track of the user's score throughout the quiz.
+
+After all seven questions have been answered, the score screen displays the total correct answers and the percentage. It also gives feedback based on the result. A high score receives positive feedback, while a lower score encourages the user to keep practising.
+
+The Review Answers button opens the review screen. This screen displays every statement, the correct answer, the answer selected by the user, and an explanation. This helps users understand the information instead of only seeing their score. The Play Again button allows the user to restart the quiz.
+
+The application uses Kotlin lists to store the questions and explanations. It uses variables to track the current question and score, if statements to check answers, and a when statement to select feedback based on the final percentage. The user interface was created using standard Android views.
+
+I also included a README file explaining the purpose, design, features, logic, and testing of the application. The GitHub Actions workflow is intended to build the Android project when code is pushed to the repository. This helps identify build problems.
+
+Thank you for watching my demonstration of Life Hack or Urban Myth?
